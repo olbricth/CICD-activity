@@ -1,6 +1,3 @@
-import os
-
-
 def display_student(name, course, year):
     print("STUDENT INFORMATION")
     print("-------------------")
